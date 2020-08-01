@@ -81,6 +81,8 @@ Also try [Competitive Programmer’s Handbook](https://cses.fi/book.pdf) for tip
 * https://github.com/the-akira/Computer-Science-Resources
 * https://github.com/ossu/computer-science
 * [700 Free Online Programming & Computer Science Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
+* https://www.codechef.com/certification/data-structures-and-algorithms/prepare
+* https://www.geeksforgeeks.org/how-can-one-become-good-at-data-structures-and-algorithms-easily/
 
 
 <br>
