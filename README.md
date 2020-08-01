@@ -8,6 +8,7 @@ A list of resources by DSC KIIT members you can use to learn and master the subj
 * [Data Structures by Code School](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 * [Harvard’s CS50](https://youtu.be/e9Eds2Rc_x8)
 * [TheCherno - C++ Tutorials](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+* [freeCodeCamp's YT Channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [Errichto's YT Channel](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 * [Gaurav Sen's YT Channel](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 * [Rachit Jain's YT Channel](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
