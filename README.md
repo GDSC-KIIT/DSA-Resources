@@ -45,7 +45,7 @@ Refer [this](https://www.freecodecamp.org/news/these-are-the-best-free-courses-t
 * Effective Modern C++ - Scott Meyers
 * Effective STL - Scott Meyers
 
-Please refer [this](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) stack overflow answer for a very detailed list.
+Please refer [this](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list) stackoverflow answer for a very detailed list.
 
 Also try [Competitive Programmer’s Handbook](https://cses.fi/book.pdf) for tips on Competitive Programming
 
